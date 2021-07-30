@@ -1,1 +1,1 @@
-web: gunicorn predict_yield:app
+web: gunicorn app:app --log-level debug
