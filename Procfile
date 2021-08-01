@@ -1,1 +1,1 @@
-web: gunicorn index.php --log-level debug
+web: gunicorn index:app 
