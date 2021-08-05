@@ -1,1 +1,1 @@
-web: gunicorn predict_yield.py && recommend_crop.py:application
+web: gunicorn heroku-php-apache2
