@@ -1,1 +1,1 @@
-web: gunicorn python predict_yield.py
+web: gunicorn predict_yield.py
