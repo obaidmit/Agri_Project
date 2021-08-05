@@ -1,1 +1,1 @@
-web: heroku-php-apache2
+web: gunicorn python predict_yield.py
