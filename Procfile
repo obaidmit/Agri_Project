@@ -1,1 +1,1 @@
-web: gunicorn predict_yield.py
+web: vendor/bin/heroku-php-apache2
