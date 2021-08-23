@@ -73,11 +73,13 @@
 
 
     <section id="dashboard">
-      <h2>Dashboard</h2>
+      <h2>Our Services</h2>
       
       
+<p class="about-content" style="text-align: center;">We are provinding two features which is based on Machine Learning Model. First one is Crop Yield Prediction and second one is Crop Recommendation. And also we are planning third model that is Crop Diseases Detection system but right now it is in developing stage. Apart from these features we are also provide some more services to the farmers. 
 
-        
+            <br><br><b> 👨‍💼Farming Consultancy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    🌿Tree Plantation&nbsp;&nbsp;&nbsp;&nbsp;      🤝 Contract Farming&nbsp;&nbsp;&nbsp;&nbsp;                  💰Credit Facility &nbsp;&nbsp;&nbsp;&nbsp;    🧪 Soil Testing Labotary &nbsp;&nbsp;&nbsp;&nbsp;                  &nbsp;&nbsp;&nbsp;&nbsp;🛠⛏Machine & Technological Service</b> 
+
         
       
     </section>
