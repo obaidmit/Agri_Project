@@ -10,3 +10,4 @@ ipaddr==2.2.0
 ordereddict==1.1
 scikit_learn==0.24.2
 scipy==1.7.0
+wincertstore==0.2.1
