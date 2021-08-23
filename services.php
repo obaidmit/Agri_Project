@@ -32,7 +32,7 @@
         
         
         <div class="row text-center mb-5">
-          <div class="col-lg-4 col-md-2 col-12 mb-4">
+          <div class="col-lg-4 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0 pb-5">
             <div class="card" style="width:400px">
               <img class="card-img-top" src="services/consultancy.jpg" alt="Card image">
               <div class="card-body">
@@ -42,7 +42,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-2 col-12 mb-4">
+          <div class="col-lg-4 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0 pb-5">
             
             <div class="card" style="width:400px">
               <img class="card-img-top" src="services/tree plantation.jpg" alt="Card image">
@@ -53,7 +53,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-2 col-12 mb-4">
+          <div class="col-lg-4 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0 pb-5">
             
             <div class="card" style="width:400px">
               <img class="card-img-top" src="services/Contract Farming.jpg" alt="Card image">
@@ -64,7 +64,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-2 col-12 mb-4">
+          <div class="col-lg-4 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0 pb-5">
             <div class="card" style="width:400px">
               <img class="card-img-top" src="services/credit.png" alt="Card image">
               <div class="card-body">
@@ -74,7 +74,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-2 col-12 mb-4">
+          <div class="col-lg-4 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0 pb-5">
             
             <div class="card" style="width:400px">
               <img class="card-img-top" src="services/soil testing.jpg" alt="Card image">
@@ -85,7 +85,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-2 col-12 mb-4">
+          <div class="col-lg-4 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0 pb-5">
             
             <div class="card" style="width:400px">
               <img class="card-img-top" src="services/technology support.jpg" alt="Card image">
