@@ -9,5 +9,4 @@ Cython==0.29.24
 ipaddr==2.2.0
 ordereddict==1.1
 scikit_learn==0.24.2
-wincertstore
-gunicorn==20.1.0
+scipy==1.7.0
