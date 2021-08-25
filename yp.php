@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Crop Yield Prediction</title>
+		<title>Crop Yield | Smart Farming</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -76,10 +76,10 @@
                                 <label for="area">Area(in hectare):</label>
                                 <input type="number" min="1" max="10000000" class="form-control" id="area" placeholder="Enter area">
                             </div>
-                            <!--<div class="row">
+                            <div class="row">
                                 <button class="btn btn-primary mx-auto" id="submit">Predict</button>
-                            </div>-->
-                            <button class="btn btn-primary mx-auto" id="submit">Predict</button>
+                            </div>
+                            <!--<button class="btn btn-primary mx-auto" id="submit">Predict</button>-->
                         </div>
                         <div class="card-footer" id="prediction">
                         </div>
@@ -87,23 +87,7 @@
                 </div>
                 
                 
-                <div class="container " id="part2" >
-                    <div class="card myCard bg-pink p-2 m-3">
-                        <!--<div class="myCard-img">
-                            <img src="imgs/field.jpg" alt="">
-                        </div>-->
-                        <div class="myCard-title">Enter details</div>
-                        <div class="myCard-body">Provide information of state, city for the crop, the area of the land and the season in which crop is to be grown</div>
-                    </div>
-                    
-                    <div class="card myCard bg-blue p-2 m-3">
-                        <!--<div class="myCard-img">
-                            <img src="imgs/field.jpg" alt="">
-                        </div>-->
-                        <div class="myCard-title text-white">Get Prediction</div>
-                        <div class="myCard-body text-white">A Random Forest ML model, trained on past 19 years of data, is used to predict the approximate crop yield</div>
-                    </div>
-                </div>            
+                           
             
             </div>
             
@@ -212,3 +196,4 @@
 
 
 </html>
+
