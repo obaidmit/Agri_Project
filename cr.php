@@ -48,38 +48,11 @@
 	<body onload="document.body.style.opacity='1.0'">
         <div class="main-container">
             
-            <div class="info p-3 m-5" style="color: #000000">
-                    <h1>CROP RECOMMENDATION <br><span><h2>using ML robust model</h2></span></h1>
-                    <br>
-                    <p><h4>trained over past 19 years data built using Random Forest algorithm</h4></p>
-                </div>
+           
             
             <div class="horizontal-container">
             
-                <div class="container " id="part2" >
-                    <div class="card myCard bg-pink p-2 m-3">
-                        <!--<div class="myCard-img">
-                            <img src="imgs/field.jpg" alt="">
-                        </div>-->
-                        <div class="myCard-title">Enter <br> soil details</div>
-                        <div class="myCard-body">Enter your location and soil details to predict better crop suitable for your land.</div>
-                    </div>
-                    <div class="card myCard bg-grey p-2 m-3">
-                        <!--<div class="myCard-img">
-                            <img src="imgs/field.jpg" alt="">
-                        </div>-->
-                        <div class="myCard-title text-white">Automatically fetch goegraphic details</div>
-                        <div class="myCard-body text-white">It will fetch Current weather details like temperature and humidity of your city</div>
-                    </div>
-                    <div class="card myCard bg-blue p-2 m-3">
-                        <!--<div class="myCard-img">
-                            <img src="imgs/field.jpg" alt="">
-                        </div>-->
-                        <div class="myCard-title text-white">Get <br> Recommendation</div>
-                        <div class="myCard-body text-white">Get best crop recommendation for your soil and experience the increased productivity</div>
-                    </div>
-                    <div class="scrollIndicator"></div>
-                </div>
+               
                 
                 <div class="container" id="part1">
                     <div class="card shadow p-3">
