@@ -79,7 +79,7 @@
             <div class="card" style="width:400px">
               <img class="card-img-top" src="services/soil testing.jpg" alt="Card image">
               <div class="card-body">
-                <h4 class="card-title">Soil Testing Labotary</h4>
+                <h4 class="card-title">Soil Testing Laboratory</h4>
                 <p class="card-text">Soil labs typically test for four properties of soil: texture, chemistry (phosphorous, potassium, iron, sulfates, certain micronutrients, soluble salts), pH, and organic matter</p>
                 <a href="#contactus" class="btn btn-primary stretched-link">See Profile</a>
               </div>
