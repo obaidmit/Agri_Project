@@ -9,7 +9,7 @@ $nitrogen = $_GET['nitrogen'];
 
 
 
-$res = shell_exec('python recommend_crop.py "'.$state.'" "'.$district.'" "'.$pH.'" "'.$potassium.'" "'.$phosphorous.'" "'.$nitrogen.'" 2>&1');
+$res = shell_exec('python recommend_crop.py "'.$state.'" "'.$district.'" "'.$pH.'" "'.$potassium.'" "'.$phosphorous.'" "'.$nitrogen.'" ');
 
 echo $res;
 
