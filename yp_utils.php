@@ -8,7 +8,7 @@ $area = $_GET['area'];
 
 
 // $res = shell_exec("python3 predict_yield.py '".$state."' '".$district."' '".$season."' '".$crop."' '".$area."' 2>&1");
-$res = shell_exec('python predict_yield.py "'.$state.'" "'.$district.'" "'.$season.'" "'.$crop.'" "'.$area.'" 2>&1');
+$res = shell_exec('python predict_yield.py "'.$state.'" "'.$district.'" "'.$season.'" "'.$crop.'" "'.$area.'" ');
 
 echo $res;
 
